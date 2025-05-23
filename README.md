@@ -1,4 +1,3 @@
-# oibsib_taskno.1
 # Iris flower classification
 
 In this task, I took Iris Flower dataset and performed Logistic Regression Algorithm to make model.
